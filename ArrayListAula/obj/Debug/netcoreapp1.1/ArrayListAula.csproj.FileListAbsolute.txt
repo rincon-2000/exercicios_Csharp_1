@@ -1,0 +1,6 @@
+C:\Users\fernando.rincon\C#\Aula8\ArrayListAula\bin\Debug\netcoreapp1.1\ArrayListAula.deps.json
+C:\Users\fernando.rincon\C#\Aula8\ArrayListAula\bin\Debug\netcoreapp1.1\ArrayListAula.runtimeconfig.json
+C:\Users\fernando.rincon\C#\Aula8\ArrayListAula\bin\Debug\netcoreapp1.1\ArrayListAula.runtimeconfig.dev.json
+C:\Users\fernando.rincon\C#\Aula8\ArrayListAula\obj\Debug\netcoreapp1.1\ArrayListAula.csprojAssemblyReference.cache
+C:\Users\fernando.rincon\C#\Aula8\ArrayListAula\obj\Debug\netcoreapp1.1\ArrayListAula.csproj.CoreCompileInputs.cache
+C:\Users\fernando.rincon\C#\Aula8\ArrayListAula\obj\Debug\netcoreapp1.1\ArrayListAula.AssemblyInfo.cs

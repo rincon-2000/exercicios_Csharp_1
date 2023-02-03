@@ -1,0 +1,10 @@
+C:\Users\fernando.rincon\C#\Aula8\Arrays\bin\Debug\netcoreapp1.1\Arrays.deps.json
+C:\Users\fernando.rincon\C#\Aula8\Arrays\bin\Debug\netcoreapp1.1\Arrays.runtimeconfig.json
+C:\Users\fernando.rincon\C#\Aula8\Arrays\bin\Debug\netcoreapp1.1\Arrays.runtimeconfig.dev.json
+C:\Users\fernando.rincon\C#\Aula8\Arrays\bin\Debug\netcoreapp1.1\Arrays.dll
+C:\Users\fernando.rincon\C#\Aula8\Arrays\bin\Debug\netcoreapp1.1\Arrays.pdb
+C:\Users\fernando.rincon\C#\Aula8\Arrays\obj\Debug\netcoreapp1.1\Arrays.csprojAssemblyReference.cache
+C:\Users\fernando.rincon\C#\Aula8\Arrays\obj\Debug\netcoreapp1.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\fernando.rincon\C#\Aula8\Arrays\obj\Debug\netcoreapp1.1\Arrays.AssemblyInfo.cs
+C:\Users\fernando.rincon\C#\Aula8\Arrays\obj\Debug\netcoreapp1.1\Arrays.dll
+C:\Users\fernando.rincon\C#\Aula8\Arrays\obj\Debug\netcoreapp1.1\Arrays.pdb
